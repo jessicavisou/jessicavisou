@@ -8,6 +8,10 @@
   <a href="https://github.com/jessicavisou">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicavisou&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Jéssicas's GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicavisou&layout=compact&langs_count=7&theme=dark" alt="Jéssicas's Most Used Languages"/>
+    ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicavisou&layout=compact&theme=dracula)
+
+
+
   </a>
 </div>
 <div align="center">  
