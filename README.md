@@ -6,10 +6,8 @@
 -📧E-mail para contato: jessica.vieira.ti@gmail.com
 <div align="center">
   <a href="https://github.com/jessicavisou">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicavisou&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Jéssicas's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicavisou&layout=compact&langs_count=7&theme=dark" alt="Jéssicas's Most Used Languages"/>
-
-
+     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jessicavisou&theme=nord_dark" alt="Jéssicas's Most Used Languages"/>
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jessicavisou&theme=nord_dark" alt="Jéssicas's Most Used Languages"/>
 
 
   </a>
