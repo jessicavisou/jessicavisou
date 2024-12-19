@@ -19,3 +19,13 @@
   <a href = "mailto:jessica.vieira.ti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jéssica-vieira-de-souza-1456a3176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  <h3><p align="center">Total de visitas no perfil:</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/jessicavisou/count.svg"/>
+</p>
+     
+ <div align="center">
+    
+   ![Snake animation](https://github.com/jessicavisou/jessicavisou/blob/main/workflows/github-contribution-grid-snake.svg)
+
+  </div>
