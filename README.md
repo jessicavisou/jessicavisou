@@ -26,6 +26,6 @@
      
  <div align="center">
     
-   ![Snake animation](https://github.com/jessicavisou/jessicavisou/blob/main/workflows/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/jessicavisou/jessicavisou/blob/main/.github/workflows/github-contribution-grid-snake.svg)
 
   </div>
