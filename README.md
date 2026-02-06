@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou Jéssica Vieira
 
--🎓Estudante de **Sistemas de Informação**  
+-🎓**Sistemas de Informação**  
 -💻Apaixonada por tecnologia  
--🚀Buscando estágio na área de desenvolvimento  
+-🚀Analista de Dados  
 -📧E-mail para contato: jessica.vieira.ti@gmail.com
 <div align="center">
   <a href="https://github.com/jessicavisou">
